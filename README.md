@@ -11,5 +11,6 @@ Please use this tool for ethical purpose.
 ============================================
 
 Installation:
-  cd 0.1ArafaList || 
-  python3 0.1ArafaList.py
+1 : git clone https://github.com/0Arafa/0.1ArafaList.git  ||  
+2 : cd 0.1ArafaList  ||   
+3 : python3 0.1ArafaList.py
