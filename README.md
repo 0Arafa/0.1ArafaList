@@ -11,5 +11,5 @@ Please use this tool for ethical purpose.
 ============================================
 
 Installation:
-  cd 0.1ArafaList,
+  cd 0.1ArafaList || 
   python3 0.1ArafaList.py
