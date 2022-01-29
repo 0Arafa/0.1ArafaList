@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #Libraries
 import random
 from colorama import *
